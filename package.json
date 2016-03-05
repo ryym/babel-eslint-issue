@@ -1,0 +1,11 @@
+{
+  "name": "babel-eslint-issue",
+  "private": true,
+  "devDependencies": {
+    "babel-eslint": "5.0.0",
+    "eslint": "2.3.0"
+  },
+  "scripts": {
+    "test": "eslint index.js"
+  }
+}
